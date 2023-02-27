@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font: Helvetica;
+}
+
+.title-box {
+  margin-bottom: "2rem";
+  border-radius: "0.3rem";
+  background-color: #0d1b26;
+}
+
+h1 {
+  background-color: #0d1b26;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.forecast {
+  font-size: 0.9em;
+}
+span {
+  font-size: 1em;
+}
+li:hover {
+  background-color: lightslategray;
+  text-decoration: underline;
+}
+.weather-box {
+  background-color: #336c99 !important;
+}
+
+.btn-main {
+  color: #fff;
+  background-color: #336c99;
+  border-color: #336c99;
+}
